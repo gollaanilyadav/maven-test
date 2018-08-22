@@ -84,6 +84,7 @@
             <groupId>com.mulesoft.connectors</groupId>
             <artifactId>mule-salesforce-connector</artifactId>
             <version>9.2.1</version>
+	    <scope>test</scope>
         </dependency>
     </dependencies>
 
